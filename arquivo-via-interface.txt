@@ -1,0 +1,4 @@
+Para adicionar um arquivo no repositório diretamente pela interface, basta seguir os passos:
+
+1 - Em "<> Code", selecionar a opção "Upload Files";
+2 - Arrastar o arquivo para a região mostrada na tela ou selecionar "choose your files" para buscar por ele no explorador de arquivos.
