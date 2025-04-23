@@ -1,3 +1,5 @@
-# working-with-repo
-Working with GitHub repositories - Atividade do módulo dois do GitHub 4 Women
-Collaboration Features - Atividade do módulo três do GitHub 4 Women
+# Trabalhando com repositórios no GitHub
+
+Neste repositório, foram realizadas as seguintes atividades do GitHub 4 Women (um projeto da WoMakersCode em parceria com a Microsoft):
+- Working with GitHub Repositories [Módulo 2]
+- Collaboration Features [Módulo 3]
