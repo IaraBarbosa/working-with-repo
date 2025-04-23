@@ -1,0 +1,8 @@
+Para inserir um arquivo via linha de comando, basta seguir os passos:
+
+1 - Com o arquivo já pronto, abrir o GitBash na pasta;
+2 - Utilizar os comandos:
+	git add <nomeArquivo> para adicionar ao stage
+	git status para verificar
+	git commit -m "<mensagem>" para commitar as alterações
+	git push para subir as alterações
